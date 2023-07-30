@@ -1,0 +1,7 @@
+*.html
+*.pdf
+*.pptx
+
+CODE/.ipynb_checkpoints/
+
+.ipynb_checkpoints/
